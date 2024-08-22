@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Becas 365</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        nav {
+            background-color: #4CAF50;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#becas">Becas</a>
+        <a href="#tus-becas">Tus Becas</a>
+        <a href="#buscar">Buscar</a>
+    </nav>
+
+    <div class="content">
+        <h1>Bienvenido a Becas 365</h1>
+        <p>
+            Becas 365 es tu plataforma para encontrar y gestionar todas las oportunidades de becas disponibles 
+            para estudiantes universitarios. Explora nuestra base de datos de becas, guarda tus becas favoritas 
+            y utiliza nuestras herramientas de búsqueda avanzada para encontrar la beca que mejor se adapte a ti.
+        </p>
+    </div>
+</body>
+</html>
